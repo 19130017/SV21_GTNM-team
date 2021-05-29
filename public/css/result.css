@@ -1,0 +1,82 @@
+.container-result {
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container-result > col {
+  float: left;
+}
+.title {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 100%;
+
+  text-align: center;
+}
+.title > h1 {
+  font-size: 50px;
+  color: black;
+  font-family: "Exo", sans-serif;
+}
+.container-result > h2 {
+  margin-top: -20px;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+}
+.container-result > p {
+  font-size: 18px;
+  color: black;
+  text-align: center;
+  margin-left: 90px;
+}
+.row2 {
+  margin-top: 50px;
+  padding-left: 150px;
+}
+.container-result .fa-star {
+  margin-right: 10px;
+}
+.row2 .col-sm-4 {
+  margin-left: 100px;
+}
+.container-result > h3 {
+  color: black;
+  font-weight: bold;
+  text-decoration: bold;
+  font-size: 23px;
+}
+.container-result > .row {
+  margin-bottom: -20px;
+  text-align: left;
+  margin-left: 50px;
+}
+.container-result > .btn {
+  margin-top: 30px;
+}
+.card1 {
+  text-align: center;
+  width: 400px;
+  height: 700px;
+  margin-bottom: 10px;
+  background-image: url(../images/certificate.png);
+  background-repeat: no-repeat;
+}
+.card1:hover {
+  transition: 1.5s;
+  box-shadow: 4px 3px 30px black;
+}
+.card1 > img {
+  margin-top: 20px;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+
+/* .p-result {
+  margin-left: 200px;
+} */
+/* p{
+  font-family: 'Abel', sans-serif;
+  color: white;
+  width:220px;
+} */
