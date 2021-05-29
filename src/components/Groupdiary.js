@@ -320,7 +320,7 @@ export default class Groupdiary extends Component {
                           <td scope="row">3</td>
                           <td>19130017</td>
                           <td>Đỗ Thanh Bình</td>
-                          <td>Tạo trang Technical</td>
+                          <td>Hoàn thiện trang Technical của web nhóm</td>
                           <td>
                             <a href="http://hci2021group02.tk/technical">
                               <i className="fa fa-link" /> Technical
@@ -332,7 +332,7 @@ export default class Groupdiary extends Component {
                           <td scope="row">4</td>
                           <td>19130021</td>
                           <td>Lê Minh Chánh</td>
-                          <td>Hoàn thiện trang About</td>
+                          <td>Hoàn thiện trang About của web nhóm</td>
                           <td>
                             <a href="http://hci2021group02.tk/about">
                               <i className="fa fa-link" /> About
@@ -345,7 +345,7 @@ export default class Groupdiary extends Component {
                           <td>19130022</td>
                           <td>Nguyễn Minh Châu</td>
                           <td>
-                            <ul>Hoàn thiện trang Home</ul>
+                            <ul>Hoàn thiện trang Home của web nhóm</ul>
                           </td>
                           <td>
                             <a href="http://hci2021group02.tk/">
@@ -383,16 +383,16 @@ export default class Groupdiary extends Component {
                           <td>19130002</td>
                           <td>Huỳnh Hữu Ân</td>
                           <td>
-                            Thiết kế chức năng blog <br />
-                            Chức năng bình luận
+                            Thiết kế chức năng blog của project <br />
+                            Chức năng bình luận của project
                           </td>
                           <td>
                             <a href="https://quanlyanimehci21g2.tk/blog_details#">
-                              <i className="fa fa-link" /> Blog
+                              <i className="fa fa-link" /> Blog project
                             </a>
                             <br />
                             <a href="https://quanlyanimehci21g2.tk/anime_details">
-                              <i className="fa fa-link" /> Comment
+                              <i className="fa fa-link" /> Comment project
                             </a>
                           </td>
                           <td>100%</td>
@@ -407,7 +407,7 @@ export default class Groupdiary extends Component {
                           </td>
                           <td>
                             <a href="https://quanlyanimehci21g2.tk">
-                              <i className="fa fa-link" /> Home
+                              <i className="fa fa-link" /> Home project
                             </a>
                           </td>
                           <td>100%</td>
@@ -418,7 +418,7 @@ export default class Groupdiary extends Component {
                           <td>Đỗ Thanh Bình</td>
                           <td>
                             Chuyển web nhóm sang react <br />
-                            Hiện thực chức năng login
+                            Hiện thực chức năng login của project
                           </td>
                           <td>
                             <a href="https://hci2021group02.tk">
@@ -454,8 +454,9 @@ export default class Groupdiary extends Component {
                           <td>19130022</td>
                           <td>Nguyễn Minh Châu</td>
                           <td>
-                            Hiện thực trang anime-details <br />
-                            Hiện thực trang anime-watching
+                            Hiện thực trang anime-details của project
+                            <br />
+                            Hiện thực trang anime-watching của project
                           </td>
                           <td>
                             <a href="https://quanlyanimehci21g2.tk/anime_details">
@@ -496,15 +497,13 @@ export default class Groupdiary extends Component {
                           <td scope="row">1</td>
                           <td>19130002</td>
                           <td>Huỳnh Hữu Ân</td>
+                          <td>Hoàn thiện trang result của web nhóm</td>
                           <td>
-                            Tổng hợp, cập nhật sửa đổi trang project của web
-                            nhóm
-                          </td>
-                          <td>
-                            <a href="https://hci2021group02.tk/project">
-                              <i className="fa fa-link" /> Trang Project
+                            <a href="https://hci2021group02.tk/result">
+                              <i className="fa fa-link" /> Result
                             </a>
                           </td>
+
                           <td>100%</td>
                         </tr>
                         <tr>
@@ -535,13 +534,13 @@ export default class Groupdiary extends Component {
                           <td>Đỗ Thanh Bình</td>
                           <td>
                             Cập nhật group diary <br />
-                            Hiện thực chức năng register
+                            Hiện thực chức năng register của project
                           </td>
                           <td>
                             Hoàn thành
                             <br />
                             <a href="https://quanlyanimehci21g2.tk/signup">
-                              <i className="fa fa-link" /> Trang Register
+                              <i className="fa fa-link" /> Register
                             </a>
                           </td>
                           <td>100%</td>
@@ -595,8 +594,8 @@ export default class Groupdiary extends Component {
                           <td>19130002</td>
                           <td>Huỳnh Hữu Ân</td>
                           <td>
-                            Chức năng liên hệ <br />
-                            Chức năng quên mật khẩu
+                            Chức năng liên hệ của project <br />
+                            Chức năng quên mật khẩu của project
                           </td>
                           <td>
                             <a href="https://quanlyanimehci21g2.tk/contact">
@@ -613,8 +612,13 @@ export default class Groupdiary extends Component {
                           <td scope="row">2</td>
                           <td>19130003</td>
                           <td>Huỳnh Văn Hữu Ân</td>
-                          <td>Sửa lỗi ở project, nhóm</td>
-                          <td>Hoàn thành</td>
+                          <td>Trang project của nhóm</td>
+                          <td>
+                            <a href="https://hci2021group02.tk/project">
+                              <i className="fa fa-link" /> Project
+                            </a>
+                          </td>
+
                           <td>100%</td>
                         </tr>
                         <tr>
@@ -623,7 +627,7 @@ export default class Groupdiary extends Component {
                           <td>Đỗ Thanh Bình</td>
                           <td>Chuyển project nhóm sang react</td>
                           <td>
-                            <a href="https://hci2021group02.tk">
+                            <a href="https://quanlyanimehci21g2.tk">
                               <i className="fa fa-link" /> Web project
                             </a>
                           </td>
@@ -633,22 +637,18 @@ export default class Groupdiary extends Component {
                           <td scope="row">4</td>
                           <td>19130021</td>
                           <td>Lê Minh Chánh</td>
-                          <td>Hoàn thiện trang result</td>
-                          <td>
-                            <a href="https://hci2021group02.tk/result">
-                              <i className="fa fa-link" /> Trang result
-                            </a>
-                          </td>
+                          <td>Tổng hợp, sửa trang project, web nhóm</td>
+                          <td>Hoàn thành</td>
                           <td>100%</td>
                         </tr>
                         <tr>
                           <td scope="row">5</td>
                           <td>19130022</td>
                           <td>Nguyễn Minh Châu</td>
-                          <td>Hoàn thiện trang Style Guide</td>
+                          <td>Hoàn thiện trang Style Guide của web nhóm</td>
                           <td>
                             <a href="https://hci2021group02.tk/styleguide">
-                              <i className="fa fa-link" /> Trang Style Guide
+                              <i className="fa fa-link" /> Style Guide
                             </a>
                           </td>
                           <td>100%</td>

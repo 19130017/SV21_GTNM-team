@@ -37,7 +37,7 @@ export default class About extends Component {
                   />
                   <div className="feature-1-content">
                     <h2>Huỳnh Hữu Ân</h2>
-                    <span className="position mb-3 d-block">Member</span>
+                    <span className="position mb-3 d-block">Leader</span>
                     <p>
                       <span>Student Code:</span> 19130002
                     </p>
@@ -73,7 +73,7 @@ export default class About extends Component {
                   />
                   <div className="feature-1-content">
                     <h2>Huỳnh Văn Hữu Ân</h2>
-                    <p className="position mb-3 d-block">Member</p>
+                    <p className="position mb-3 d-block">Developer</p>
                     <p>
                       <span>Student Code:</span> 19130003
                     </p>
@@ -109,7 +109,7 @@ export default class About extends Component {
                   />
                   <div className="feature-1-content">
                     <h2>Đỗ Thanh Bình</h2>
-                    <p className="position mb-3 d-block">Member</p>
+                    <p className="position mb-3 d-block">Developer</p>
                     <p>
                       <span>Student Code:</span> 19130017
                     </p>
@@ -145,7 +145,7 @@ export default class About extends Component {
                   />
                   <div className="feature-1-content">
                     <h2>Lê Minh Chánh</h2>
-                    <p className="position mb-3 d-block">Member</p>
+                    <p className="position mb-3 d-block">Designer</p>
                     <p>
                       <span>Student Code:</span> 19130021
                     </p>
@@ -181,7 +181,7 @@ export default class About extends Component {
                   />
                   <div className="feature-1-content">
                     <h2>Nguyễn Minh Châu</h2>
-                    <p className="position mb-3 d-block">Member</p>
+                    <p className="position mb-3 d-block">Developer</p>
                     <p>
                       <span>Student Code:</span> 19130022
                     </p>

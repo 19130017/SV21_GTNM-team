@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Nav from "./Nav";
 
 export default class Project extends Component {
   render() {
@@ -18,6 +19,7 @@ export default class Project extends Component {
             </div>
           </div>
         </div>
+        <Nav />
       </div>
     );
   }

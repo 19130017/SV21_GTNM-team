@@ -37,17 +37,16 @@ export default class Result extends Component {
                     <ul>
                       <h3>Trang web nhóm</h3>
                       <li>Trang Result</li>
-                      <li>Trang Technology</li>
-                      <li>Trang Style Guide</li>
                     </ul>
                   </div>
                   <p>--------------------------</p>
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
-                      <li>Thông tin về tên Anime</li>
-                      <li>Tìm video Anime</li>
-                      <li>Sắp xếp bố cục phim</li>
+                      <li>Trang blog</li>
+                      <li>Chức năng comment</li>
+                      <li>Chức năng contact</li>
+                      <li>Chức năng quên mật khẩu</li>
                     </ul>
                   </div>
                   <p>--------------------------</p>
@@ -59,7 +58,7 @@ export default class Result extends Component {
                     </ul>
                   </div>
                   <div className="button">
-                    <a className="btn-result btn-primary" href="">
+                    <a className="btn-result btn-primary" href="https://19130002.tk/result">
                       <i className="fa fa-star" />
                       Đánh giá cá nhân
                     </a>
@@ -74,18 +73,18 @@ export default class Result extends Component {
                   <div className="row">
                     <ul>
                       <h3>Trang web nhóm</h3>
-                      <li>Trang Result</li>
-                      <li>Trang Technology</li>
-                      <li>Trang Style Guide</li>
+                      <li>Trang project</li>
+                      <li>Liên ý tưởng các web</li>
+                      <li>Điều hướng web</li>
                     </ul>
                   </div>
                   <p>--------------------------</p>
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
-                      <li>Thông tin về tên Anime</li>
-                      <li>Tìm video Anime</li>
-                      <li>Sắp xếp bố cục phim</li>
+                      <li>Trang home project</li>
+                      <li>Chức năng tìm kiếm</li>
+                      <li>Điều hướng project</li>
                     </ul>
                   </div>
                   <p>--------------------------</p>
@@ -97,7 +96,7 @@ export default class Result extends Component {
                     </ul>
                   </div>
                   <div className="button">
-                    <a className="btn-result btn-primary" href="">
+                    <a className="btn-result btn-primary" href="https://19130003.tk/result">
                       <i className="fa fa-star" />
                       Đánh giá cá nhân
                     </a>
@@ -112,18 +111,18 @@ export default class Result extends Component {
                   <div className="row">
                     <ul>
                       <h3>Trang web nhóm</h3>
-                      <li>Trang Result</li>
-                      <li>Trang Technology</li>
-                      <li>Trang Style Guide</li>
+                      <li>Trang Groupdiary</li>
+                      <li>Trang Technical</li>
+                      <li>Chuyển ReactJS</li>
                     </ul>
                   </div>
                   <p>--------------------------</p>
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
-                      <li>Thông tin về tên Anime</li>
-                      <li>Tìm video Anime</li>
-                      <li>Sắp xếp bố cục phim</li>
+                      <li>Chức năng đăng ký</li>
+                      <li>Chức năng đăng nhập</li>
+                      <li>Chuyển ReactJS</li>
                     </ul>
                   </div>
                   <p>--------------------------</p>
@@ -135,7 +134,7 @@ export default class Result extends Component {
                     </ul>
                   </div>
                   <div className="button">
-                    <a className="btn-result btn-primary" href="">
+                    <a className="btn-result btn-primary" href="https://19130017.tk/result">
                       <i className="fa fa-star" />
                       Đánh giá cá nhân
                     </a>
@@ -152,18 +151,18 @@ export default class Result extends Component {
                   <div className="row">
                     <ul>
                       <h3>Trang web nhóm</h3>
-                      <li>Trang Result</li>
-                      <li>Trang Technology</li>
-                      <li>Trang Style Guide</li>
+                      <li>Trang About</li>
+                      <li>Design các trang</li>
+                      <li>Kiểm tra link</li>
                     </ul>
                   </div>
                   <p>--------------------------</p>
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
-                      <li>Thông tin về tên Anime</li>
-                      <li>Tìm video Anime</li>
-                      <li>Sắp xếp bố cục phim</li>
+                      <li>Design các trang</li>
+                      <li>Trang category</li>
+                      <li>Kiểm tra lỗi</li>
                     </ul>
                   </div>
                   <p>--------------------------</p>
@@ -175,7 +174,7 @@ export default class Result extends Component {
                     </ul>
                   </div>
                   <div className="button">
-                    <a className="btn-result btn-primary" href="">
+                    <a className="btn-result btn-primary" href="https://19130021.tk/result">
                       <i className="fa fa-star" />
                       Đánh giá cá nhân
                     </a>
@@ -190,8 +189,7 @@ export default class Result extends Component {
                   <div className="row">
                     <ul>
                       <h3>Trang web nhóm</h3>
-                      <li>Trang Result</li>
-                      <li>Trang Technology</li>
+                      <li>Trang Home</li>
                       <li>Trang Style Guide</li>
                     </ul>
                   </div>
@@ -199,9 +197,8 @@ export default class Result extends Component {
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
-                      <li>Thông tin về tên Anime</li>
-                      <li>Tìm video Anime</li>
-                      <li>Sắp xếp bố cục phim</li>
+                      <li>Trang details anime</li>
+                      <li>Trang xem anime</li>
                     </ul>
                   </div>
                   <p>--------------------------</p>
@@ -213,7 +210,7 @@ export default class Result extends Component {
                     </ul>
                   </div>
                   <div className="button">
-                    <a className="btn-result btn-primary" href="">
+                    <a className="btn-result btn-primary" href="https://19130022.tk/result">
                       <i className="fa fa-star" />
                       Đánh giá cá nhân
                     </a>
