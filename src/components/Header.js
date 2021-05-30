@@ -1,4 +1,11 @@
 import React, { Component } from "react";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link,
+  NavLink,
+} from "react-router-dom";
 
 export default class Header extends Component {
   render() {
@@ -11,13 +18,13 @@ export default class Header extends Component {
           <div className="container">
             <div className="d-flex align-items-center">
               <div className="site-logo">
-                <a href="/" className="d-block">
+                <Link to="/">
                   <img
                     src="images/logo/logo.png"
                     alt="Image"
                     className="img-fluid"
                   />
-                </a>
+                </Link>
               </div>
               <div className="mr-auto">
                 <nav
@@ -33,40 +40,58 @@ export default class Header extends Component {
             d-none d-lg-block
           "
                   >
-                    <li className="">
+                    <li>
                       <a href="/" className="nav-link text-left">
                         Home
                       </a>
                     </li>
                     <li>
-                      <a href="/about" className="nav-link text-left">
+                      <NavLink to="/about" className="nav-link text-left">
                         About
-                      </a>
+                      </NavLink>
+                      {/* <a href="/about" className="nav-link text-left">
+                        About
+                      </a> */}
                     </li>
                     <li>
-                      <a href="/groupdiary" className="nav-link text-left">
-                      Group diary
-                      </a>
+                      <NavLink to="/groupdiary" className="nav-link text-left">
+                        Group diary
+                      </NavLink>
+                      {/* <a href="/groupdiary" className="nav-link text-left">
+                        Group diary
+                      </a> */}
                     </li>
                     <li>
-                      <a href="/technical" className="nav-link text-left">
+                      <NavLink to="/technical" className="nav-link text-left">
                         Technical
-                      </a>
+                      </NavLink>
+                      {/* <a href="/technical" className="nav-link text-left">
+                        Technical
+                      </a> */}
                     </li>
                     <li>
-                      <a href="/result" className="nav-link text-left">
+                      <NavLink to="/result" className="nav-link text-left">
                         Result
-                      </a>
+                      </NavLink>
+                      {/* <a href="/result" className="nav-link text-left">
+                        Result
+                      </a> */}
                     </li>
                     <li>
-                      <a href="/styleguide " className="nav-link text-left">
+                      <NavLink to="/styleguide" className="nav-link text-left">
                         Style Guide
-                      </a>
+                      </NavLink>
+                      {/* <a href="/styleguide " className="nav-link text-left">
+                        
+                      </a> */}
                     </li>
                     <li>
-                      <a href="/project" className="nav-link text-left">
+                      <NavLink to="/project" className="nav-link text-left">
                         Project
-                      </a>
+                      </NavLink>
+                      {/* <a href="/project" className="nav-link text-left">
+                        Project
+                      </a> */}
                     </li>
                   </ul>
                 </nav>

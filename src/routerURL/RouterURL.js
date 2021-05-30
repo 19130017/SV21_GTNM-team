@@ -7,12 +7,14 @@ import Technical from "../components/Technical";
 import Result from "../components/Result";
 import Styleguide from "../components/Styleguide";
 import Project from "../components/Project";
+import Header from "../components/Header";
 
 export default class RouterURL extends Component {
   render() {
     return (
       <div>
         <Router>
+          <Header />
           <div>
             <Route exact path="/" component={Slider} />
             <Route exact path="/about" component={About} />
