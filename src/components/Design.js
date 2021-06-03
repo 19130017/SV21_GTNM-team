@@ -28,38 +28,38 @@ export default class Design extends Component {
               {/* content */}
               <div className="card-body">
                 <div className="row p-3">
-                  <div className="col ml-5">
+                  <div className="col ml-3">
                     <h3 className="text-center">1. Design on papper</h3>
                     <img
-                      src="images/l1-1.jpg"
-                      height="400px"
-                      width="100%"
+                      src="images/design-pro/Login.png"
+                      height="625px"
+                      width="500px"
                       alt=""
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info ">
                         <a
-                          href="images/l1-1.jpg"
-                          download="19130017-l1-1-papper"
+                          href="images/design-pro/Login.png"
+                          download="hci21g2-login-papper"
                         >
                           Download
                         </a>
                       </button>
                     </div>
                   </div>
-                  <div className="col ml-5 ">
+                  <div className="col ml-3 ">
                     <h3 className="text-center">2. Design on html </h3>
                     <img
-                      src="images/l1-2.jpg"
+                      src="images/design-pro/Login1.png"
                       alt=""
-                      height="400px"
-                      width="100%"
+                      height="625px"
+                      width="500px"
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info">
                         <a
-                          href="images/l1-2.jpg"
-                          download="19130017-l1-2-papper"
+                          href="images/design-pro/Login1.png"
+                          download="hci21g2-login-html"
                         >
                           Download
                         </a>
@@ -92,38 +92,38 @@ export default class Design extends Component {
             >
               <div className="card-body">
                 <div className="row p-3">
-                  <div className="col ml-5">
+                  <div className="col ml-3">
                     <h3 className="text-center">1. Design on papper</h3>
                     <img
-                      src="images/l1-1.jpg"
-                      height="400px"
-                      width="100%"
+                      src="images/design-pro/SignUp.png"
+                      height="625px"
+                      width="500px"
                       alt=""
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info ">
                         <a
-                          href="images/l1-1.jpg"
-                          download="19130017-l1-1-papper"
+                          href="images/design-pro/SignUp.png"
+                          download="hci21g2-signup-papper"
                         >
                           Download
                         </a>
                       </button>
                     </div>
                   </div>
-                  <div className="col ml-5 mb-2 ">
+                  <div className="col ml-3 mb-2 ">
                     <h3 className="text-center">1. Design on html </h3>
                     <img
-                      src="images/l1-2.jpg"
+                      src="images/design-pro/SignUp2.png"
+                      height="625px"
+                      width="500px"
                       alt=""
-                      height="400px"
-                      width="100%"
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info">
                         <a
-                          href="images/l1-2.jpg"
-                          download="19130017-l1-2-papper"
+                          href="images/design-pro/SignUp2.png"
+                          download="hci21g2-signup-html"
                         >
                           Download
                         </a>
@@ -157,38 +157,38 @@ export default class Design extends Component {
               {/* content */}
               <div className="card-body">
                 <div className="row p-3">
-                  <div className="col ml-5">
+                  <div className="col ml-3">
                     <h3 className="text-center">1. Design on papper</h3>
                     <img
-                      src="images/l1-1.jpg"
-                      height="400px"
-                      width="100%"
+                      src="images/design-pro/ForgotPassword.png"
+                      height="625px"
+                      width="500px"
                       alt=""
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info ">
                         <a
-                          href="images/l1-1.jpg"
-                          download="19130017-l1-1-papper"
+                          href="images/design-pro/ForgotPassword.png"
+                          download="hci21g2-forgotpass-papper"
                         >
                           Download
                         </a>
                       </button>
                     </div>
                   </div>
-                  <div className="col ml-5 ">
+                  <div className="col ml-3 ">
                     <h3 className="text-center">2. Design on html </h3>
                     <img
-                      src="images/l1-2.jpg"
+                      src="images/design-pro/ForgotPassword1.png"
+                      height="625px"
+                      width="500px"
                       alt=""
-                      height="400px"
-                      width="100%"
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info">
                         <a
-                          href="images/l1-2.jpg"
-                          download="19130017-l1-2-papper"
+                          href="images/design-pro/ForgotPassword1.png"
+                          download="hci21g2-forgot-html"
                         >
                           Download
                         </a>
@@ -221,38 +221,38 @@ export default class Design extends Component {
             >
               <div className="card-body">
                 <div className="row p-3">
-                  <div className="col ml-5">
+                  <div className="col ml-3">
                     <h3 className="text-center">1. Design on papper</h3>
                     <img
-                      src="images/l1-1.jpg"
+                      src="images/design-pro/Comment.png"
                       height="400px"
-                      width="100%"
+                      width="500px"
                       alt=""
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info ">
                         <a
-                          href="images/l1-1.jpg"
-                          download="19130017-l1-1-papper"
+                          href="images/design-pro/Comment.png"
+                          download="hci21g2-cmt-papper"
                         >
                           Download
                         </a>
                       </button>
                     </div>
                   </div>
-                  <div className="col ml-5 mb-2 ">
+                  <div className="col ml-3 mb-2 ">
                     <h3 className="text-center">1. Design on html </h3>
                     <img
-                      src="images/l1-2.jpg"
-                      alt=""
+                      src="images/design-pro/Comment1.png"
                       height="400px"
-                      width="100%"
+                      width="500px"
+                      alt=""
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info">
                         <a
-                          href="images/l1-2.jpg"
-                          download="19130017-l1-2-papper"
+                          href="images/design-pro/Comment1.png"
+                          download="hci21g2-cmt-html"
                         >
                           Download
                         </a>
@@ -286,38 +286,38 @@ export default class Design extends Component {
               {/* content */}
               <div className="card-body">
                 <div className="row p-3">
-                  <div className="col ml-5">
+                  <div className="col ml-3">
                     <h3 className="text-center">1. Design on papper</h3>
                     <img
-                      src="images/l1-1.jpg"
+                      src="images/design-pro/BlogComment.png"
                       height="400px"
-                      width="100%"
+                      width="500px"
                       alt=""
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info ">
                         <a
                           href="images/l1-1.jpg"
-                          download="19130017-l1-1-papper"
+                          download="hci21g2-blogcmt-papper"
                         >
                           Download
                         </a>
                       </button>
                     </div>
                   </div>
-                  <div className="col ml-5 ">
+                  <div className="col ml-3 ">
                     <h3 className="text-center">2. Design on html </h3>
                     <img
-                      src="images/l1-2.jpg"
-                      alt=""
+                      src="images/design-pro/BlogComment1.png"
                       height="400px"
-                      width="100%"
+                      width="500px"
+                      alt=""
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info">
                         <a
-                          href="images/l1-2.jpg"
-                          download="19130017-l1-2-papper"
+                          href="images/design-pro/BlogComment1.png"
+                          download="hci21g2-blogcmt-html"
                         >
                           Download
                         </a>
@@ -350,7 +350,7 @@ export default class Design extends Component {
             >
               <div className="card-body">
                 <div className="row p-3">
-                  <div className="col ml-5">
+                  <div className="col ml-3">
                     <h3 className="text-center">1. Design on papper</h3>
                     <img
                       src="images/l1-1.jpg"
@@ -369,7 +369,7 @@ export default class Design extends Component {
                       </button>
                     </div>
                   </div>
-                  <div className="col ml-5 mb-2 ">
+                  <div className="col ml-3 mb-2 ">
                     <h3 className="text-center">1. Design on html </h3>
                     <img
                       src="images/l1-2.jpg"

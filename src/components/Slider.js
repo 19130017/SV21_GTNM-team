@@ -14,6 +14,13 @@ export default class Slider extends Component {
                 <div className="intro top">
                   <h1>Group 02</h1>
                   <p className="lecture">Lecture: Tran Thi Thanh Nga</p>
+                  {/* <a
+                    className="btnproject draw-border "
+                    role="button"
+                    href="https://quanlyanimehci21g2.tk/"
+                  >
+                    GO TO PROJECT
+                  </a> */}
                 </div>
               </div>
             </div>

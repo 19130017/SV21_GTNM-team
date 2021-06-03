@@ -190,12 +190,19 @@ export default class Technical extends Component {
                       className="img-tech"
                     />
                     <p>
-                      Bước 3: Các bạn dùng{" "}
+                      Bước 3: Các bạn dùng  {" "}
                       <a href="https://code.visualstudio.com/" target="_blank">
-                        VSCode
+                      VSCode
                       </a>{" "}
-                      để chạy lệnh command or dùng command prompt của Window ({" "}
-                      <strong>khuyến khích dùng VSCode</strong> ){" "}
+                      để chạy lệnh command or dùng command prompt của Window (
+                      <strong>khuyến khích dùng VSCode</strong> )
+                    </p>
+                    <p>
+                      Trước khi thực hiện thao tác dưới đây các bạn cài{" "}
+                      <a href="https://nodejs.org/en/" target="_blank">
+                        NodeJS
+                      </a>{" "}
+                      trước nhé!!!!!!
                     </p>
                     <p>
                       Dưới đây sẽ là hướng dẫn cho <strong>React</strong> trước
@@ -266,7 +273,7 @@ export default class Technical extends Component {
                         What do you want to use as your public directory?{" "}
                       </strong>
                       <br /> ở đây các bạn đang thao tác với{" "}
-                      <strong>"HTML-CSS-JS"</strong> thì tạo folder 
+                      <strong>"HTML-CSS-JS"</strong> thì tạo folder
                       <strong> public</strong> sau đó chuyển hết file vào trong
                       public và <strong>Enter</strong>
                     </p>

@@ -93,6 +93,15 @@ export default class Header extends Component {
                         Project
                       </a> */}
                     </li>
+                    <li>
+                      <a
+                        class="btn btn-primary ml-5 text-left nav-link "
+                        href="https://quanlyanimehci21g2.tk"
+                        role="button"
+                      >
+                        Go to project
+                      </a>
+                    </li>
                   </ul>
                 </nav>
               </div>

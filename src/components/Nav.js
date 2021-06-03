@@ -31,7 +31,7 @@ export default class Nav extends Component {
               >
                 Design
               </a>
-              <a
+              {/* <a
                 className="nav-item nav-link actice"
                 id="nav-implement-tab"
                 data-toggle="tab"
@@ -41,7 +41,7 @@ export default class Nav extends Component {
                 aria-selected="false"
               >
                 Implement
-              </a>
+              </a> */}
             </div>
           </nav>
 
