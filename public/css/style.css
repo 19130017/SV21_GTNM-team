@@ -1894,7 +1894,8 @@ ul {
 .container-result h3 {
   color: black;
   font-weight: bold;
-  text-decoration: bold;
+  /* text-decoration: bold; */
+  margin-top: 10px;
   font-size: 23px;
 }
 .container-result .row {
@@ -1906,14 +1907,18 @@ ul {
   margin-top: 8px;
   padding: 14px 20px;
   border-radius: 4px !important;
+  position: absolute;
+  bottom: 30px;
+  right: 85px;
 }
 .container-result > a {
   color: currentColor;
 }
 .card1 {
+  position: relative;
   text-align: center;
   width: 350px;
-  height: 700px;
+  height: 650px;
   margin-bottom: 10px;
   /* background-image: url(../images/certificate.png); */
   background-size: 350px, 700px;
@@ -1930,9 +1935,9 @@ ul {
   width: 120px;
   height: 120px;
 }
-.container-result .button {
+/* .container-result .button {
   margin-top: 30px;
-}
+} */
 
 .btn-info > a{
   color: #000;
@@ -2000,3 +2005,4 @@ ul {
 .btnproject:focus {
   outline: 2px dotted #55d7dc;
 }
+

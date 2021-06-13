@@ -39,7 +39,6 @@ export default class Result extends Component {
                       <li>Trang Result</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
@@ -50,7 +49,6 @@ export default class Result extends Component {
                       <li>Chức năng quên mật khẩu</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul className="evaluate">
                       <h3>Đánh giá</h3>
@@ -72,7 +70,7 @@ export default class Result extends Component {
               <div className="col-sm-4">
                 <div className="card1">
                   <img src="images/member-2.jpg" alt="" />
-                  <p>Member</p>
+                  <p>Developer</p>
                   <h2>Huỳnh Văn Hữu Ân</h2>
                   <div className="row">
                     <ul>
@@ -83,7 +81,6 @@ export default class Result extends Component {
                       <li>Điều hướng web</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
@@ -91,7 +88,6 @@ export default class Result extends Component {
                       <li>Điều hướng project</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul className="evaluate">
                       <h3>Đánh giá</h3>
@@ -113,7 +109,7 @@ export default class Result extends Component {
               <div className="col-sm-4">
                 <div className="card1">
                   <img src="images/member-3.jpg" alt="" />
-                  <p>Member</p>
+                  <p>Developer</p>
                   <h2>Đỗ Thanh Bình</h2>
                   <div className="row">
                     <ul>
@@ -123,7 +119,6 @@ export default class Result extends Component {
                       <li>Chuyển ReactJS</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
@@ -133,7 +128,6 @@ export default class Result extends Component {
                       <li>Chuyển ReactJS</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul className="evaluate">
                       <h3>Đánh giá</h3>
@@ -157,7 +151,7 @@ export default class Result extends Component {
               <div className=" col-sm-4">
                 <div className="card1">
                   <img src="images/member-4.jpg" alt="" />
-                  <p>Member</p>
+                  <p>Designer</p>
                   <h2>Lê Minh Chánh</h2>
                   <div className="row">
                     <ul>
@@ -167,7 +161,6 @@ export default class Result extends Component {
                       <li>Kiểm tra link</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
@@ -175,7 +168,6 @@ export default class Result extends Component {
                       <li>Kiểm tra lỗi</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul className="evaluate">
                       <h3>Đánh giá</h3>
@@ -197,7 +189,7 @@ export default class Result extends Component {
               <div className="col-sm-4">
                 <div className="card1">
                   <img src="images/member-5.jpg" alt="" />
-                  <p>Member</p>
+                  <p>Developer</p>
                   <h2>Nguyễn Minh Châu</h2>
                   <div className="row">
                     <ul>
@@ -205,7 +197,6 @@ export default class Result extends Component {
                       <li>Trang Home</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul>
                       <h3>Trang web Anime</h3>
@@ -213,7 +204,6 @@ export default class Result extends Component {
                       <li>Trang watches anime</li>
                     </ul>
                   </div>
-                  <p>--------------------------</p>
                   <div className="row">
                     <ul className="evaluate">
                       <h3>Đánh giá</h3>

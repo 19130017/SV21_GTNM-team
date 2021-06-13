@@ -18,10 +18,10 @@ export default class RouterURL extends Component {
           <div>
             <Route exact path="/" component={Slider} />
             <Route exact path="/about" component={About} />
-            <Route exact path="/groupdiary" component={Groupdiary} />
+            <Route exact path="/groupDiary" component={Groupdiary} />
             <Route exact path="/technical" component={Technical} />
             <Route exact path="/result" component={Result} />
-            <Route exact path="/styleguide" component={Styleguide} />
+            <Route exact path="/styleGuide" component={Styleguide} />
             <Route exact path="/project" component={Project} />
           </div>
         </Router>

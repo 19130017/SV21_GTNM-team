@@ -54,7 +54,7 @@ export default class Header extends Component {
                       </a> */}
                     </li>
                     <li>
-                      <NavLink to="/groupdiary" className="nav-link text-left">
+                      <NavLink to="/groupDiary" className="nav-link text-left">
                         Group diary
                       </NavLink>
                       {/* <a href="/groupdiary" className="nav-link text-left">
@@ -78,7 +78,7 @@ export default class Header extends Component {
                       </a> */}
                     </li>
                     <li>
-                      <NavLink to="/styleguide" className="nav-link text-left">
+                      <NavLink to="/styleGuide" className="nav-link text-left">
                         Style Guide
                       </NavLink>
                       {/* <a href="/styleguide " className="nav-link text-left">
