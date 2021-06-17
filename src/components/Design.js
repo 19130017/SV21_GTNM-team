@@ -353,16 +353,16 @@ export default class Design extends Component {
                   <div className="col ml-3">
                     <h3 className="text-center">1. Design on papper</h3>
                     <img
-                      src="images/l1-1.jpg"
+                      src="images/design-pro/Contact1.png"
                       height="400px"
-                      width="100%"
+                      width="500px"
                       alt=""
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info ">
                         <a
-                          href="images/l1-1.jpg"
-                          download="19130017-l1-1-papper"
+                          href="images/design-pro/Contact1.png"
+                          download="hci21g2-contact-papper"
                         >
                           Download
                         </a>
@@ -372,16 +372,16 @@ export default class Design extends Component {
                   <div className="col ml-3 mb-2 ">
                     <h3 className="text-center">1. Design on html </h3>
                     <img
-                      src="images/l1-2.jpg"
+                      src="images/design-pro/Contact.png"
                       alt=""
                       height="400px"
-                      width="100%"
+                      width="500px"
                     />
                     <div className="text-center mt-2">
                       <button className="btn btn-info">
-                        <a
-                          href="images/l1-2.jpg"
-                          download="19130017-l1-2-papper"
+                      <a
+                          href="images/design-pro/Contact.png"
+                          download="hci21g2-contact-papper"
                         >
                           Download
                         </a>

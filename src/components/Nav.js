@@ -62,7 +62,7 @@ export default class Nav extends Component {
             >
               <Design />
             </div>
-            <div
+            {/* <div
               className="tab-pane fade"
               id="nav-implement-lab"
               role="tabpanel"
@@ -75,7 +75,7 @@ export default class Nav extends Component {
               >
                 Go to project
               </a>
-            </div>
+            </div> */}
           </div>
         </section>
       </div>
