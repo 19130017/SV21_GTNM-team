@@ -253,17 +253,23 @@ export default class Styleguide extends Component {
               role="tabpanel"
               aria-labelledby="nav-file-tab"
             >
+              <h2 className="text-center mt-3">Directory web group</h2>
               <div className="row">
-                <div className="col-md-6">
-                  <img src="images/file/1.png" />
+                <div className="col-md-5 ml-5 ">
+                  <img src="images/file/web-group-1.png" />
                 </div>
-                <div className="col-md-6">
-                  <img src="images/file/2.png" />
+                <div className="col-md-5">
+                  <img src="images/file/web-group-2.png" />
                 </div>
               </div>
+
+              <h2 className="mt-5 text-center">Directory project</h2>
               <div className="row">
-                <div className="col-md-3">
-                  <img src="images/file/3.png" />
+                <div className="col-md-5 mt-4 ml-5">
+                  <img src="images/file/project-1.png" />
+                </div>
+                <div className="col-md-5 mt-4">
+                  <img src="images/file/project-2.png" />
                 </div>
               </div>
             </div>
