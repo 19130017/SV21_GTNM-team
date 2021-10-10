@@ -229,7 +229,7 @@ export default class Groupdiary extends Component {
                             Tạo trang web cá nhân
                           </td>
                           <td>
-                            <a href="http://hci2021group02.tk/groupdiary">
+                            <a href="http://hci2021group02.tk/groupDiary">
                               <i className="fa fa-link" /> Group diary
                             </a>
                             <br />
@@ -383,17 +383,14 @@ export default class Groupdiary extends Component {
                           <td>19130002</td>
                           <td>Huỳnh Hữu Ân</td>
                           <td>
-                            Thiết kế chức năng blog của project <br />
-                            Chức năng bình luận của project
+                            Thiết kế chức năng blog của project
                           </td>
                           <td>
-                            <a href="https://quanlyanimehci21g2.tk/blog_details#">
+                            <a href="https://quanlyanimehci21g2.tk/blog_details">
                               <i className="fa fa-link" /> Blog project
                             </a>
                             <br />
-                            <a href="https://quanlyanimehci21g2.tk/anime_details">
-                              <i className="fa fa-link" /> Comment project
-                            </a>
+                            
                           </td>
                           <td>100%</td>
                         </tr>
@@ -459,10 +456,7 @@ export default class Groupdiary extends Component {
                             Hiện thực trang anime-watching của project
                           </td>
                           <td>
-                            <a href="https://quanlyanimehci21g2.tk/anime_details">
-                              <i className="fa fa-link" /> Details
-                            </a>
-                            <br />
+                            
                             <a href="https://quanlyanimehci21g2.tk/anime_watches">
                               <i className="fa fa-link" /> Watching
                             </a>
@@ -647,7 +641,7 @@ export default class Groupdiary extends Component {
                           <td>Nguyễn Minh Châu</td>
                           <td>Hoàn thiện trang Style Guide của web nhóm</td>
                           <td>
-                            <a href="https://hci2021group02.tk/styleguide">
+                            <a href="https://hci2021group02.tk/styleGuide">
                               <i className="fa fa-link" /> Style Guide
                             </a>
                           </td>
